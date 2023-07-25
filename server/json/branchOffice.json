@@ -1,0 +1,62 @@
+[
+    {
+        "id": "0",
+        "country": "Argentina",
+        "currency": "ARS",
+        "change": "272"
+    },
+    {
+        "id": "1",
+        "country": "Chile",
+        "currency": "CLP",
+        "change": "828"
+    },
+    {
+        "id": "2",
+        "country": "Peru",
+        "currency": "PEN",
+        "change": "3.6"
+    },
+    {
+        "id": "3",
+        "country": "Mexico",
+        "currency": "MXN",
+        "change": "17"
+    },
+    {
+        "id": "4",
+        "country": "Venezuela",
+        "currency": "VES",
+        "change": "29"
+    },
+    {
+        "id": "5",
+        "country": "Bolivia",
+        "currency": "BOB",
+        "change": "7"
+    },
+    {
+        "id": "6",
+        "country": "Colombia",
+        "currency": "COP",
+        "change": "3981"
+    },
+    {
+        "id": "7",
+        "country": "Salvador",
+        "currency": "SVC",
+        "change": "9"
+    },
+    {
+        "id": "8",
+        "country": "United States",
+        "currency": "USD",
+        "change": "1"
+    },
+    {
+        "id": "9",
+        "country": "Canada",
+        "currency": "CAD",
+        "change": "1.31"
+    }
+]
